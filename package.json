@@ -1,0 +1,21 @@
+{
+  "name": "servidor-express",
+  "version": "1.0.0",
+  "description": "Servidor REST básico con Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "Magdalena Inalaf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
